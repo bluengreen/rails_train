@@ -207,9 +207,7 @@ Railscast <a class="c0" href="http://railscasts.com/?tag_id=25">Authentication</
 
 ##### Footnotes
 
-<a href="#ftnt_ref1" name="ftnt1" id="ftnt1">[1]</a>
-
-<p><span class="c4">&nbsp;&lt;</span><a class="c0" href="http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png">http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png</a><span class="c4">&gt;</span></p>
+<a href="#ftnt_ref1" name="ftnt1" id="ftnt1">[1]</a><span class="c4">&nbsp;&lt;</span><a class="c0" href="http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png">http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png</a><span class="c4">&gt;</span>
 
 
 
