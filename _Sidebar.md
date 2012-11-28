@@ -1,10 +1,5 @@
 # Sidebar
 
-## Rails Sidebar
+## Table of Contents
 
 [[_TOC_]]
-  - This  
-  - That
-  # Header 1
-
-  ## Header 2
