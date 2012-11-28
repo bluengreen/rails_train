@@ -1,6 +1,8 @@
 
 # Links
 
+## Source
+
 <a class="c0" href="http://rubyonrails.org/">Ruby on Rails</a>
 
 <a class="c0" href="http://rubygems.org/">RubyGems</a>
@@ -16,7 +18,7 @@
 <a class="c0" href="http://nginx.org/">Nginx</a>
 
 
-Popular Gems
+## Popular Gems
 
 <a class="c0" href="https://github.com/plataformatec/devise">plataformatec/devise</a>
 
@@ -38,7 +40,7 @@ Popular Gems
 
 
 
-Rails Related Topics
+## Rails Related Topics
 
 <a class="c0" href="http://guides.rubyonrails.org/">Ruby on Rails Guides</a>
 
@@ -50,14 +52,14 @@ Rails Related Topics
 
 
 
-Model-View-Controller design pattern
+## Model-View-Controller design pattern
 
 <img height="177" src="images/image00.png" width="186"><sup><a href="#ftnt1" name="ftnt_ref1" id="ftnt_ref1">[1]</a></sup><img height="238" src="images/image01.png" width="186"><sup><a href="#ftnt2" name="ftnt_ref2" id="ftnt_ref2">[2]</a></sup></li>
 
 <a class="c0" href="http://ist.berkeley.edu/as-ag/pub/pdf/mvc-seminar.pdf">http://ist.berkeley.edu/as-ag/pub/pdf/mvc-seminar.pdf</a>
 
 
-REST
+## REST
 
 <a class="c0" href="http://en.wikipedia.org/wiki/Representational_state_transfer">Representational state transfer</a>
 
@@ -67,7 +69,7 @@ REST
 
 
 
-Application Programming Interface
+## Application Programming Interface
 
 
 
@@ -75,9 +77,7 @@ Application Programming Interface
 
 <a class="c0" href="http://railscasts.com/episodes/350-rest-api-versioning">350 REST API Versioning</a>
 
-Authentication
-
-
+## Authentication
 
 <a class="c0" href="http://www.tonyamoyal.com/2010/09/29/rails-authentication-with-devise-and-cancan-part-2-restful-resources-for-administrators/">Rails Authentication with Devise and CanCan part 2 – Restful</a></span> <a class="c0" href="http://www.google.com/url?q=http%3A%2F%2Fwww.tonyamoyal.com%2F2010%2F09%2F29%2Frails-authentication-with-devise-and-cancan-part-2-restful-resources-for-administrators%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG_bxH8059fFVKgihZznA5qVV8nHA">…</a>
 
@@ -87,7 +87,7 @@ Railscast <a class="c0" href="http://railscasts.com/?tag_id=25">Authentication</
 
 
 
-Case Studies
+## Case Studies
 
 
 <a class="c0" href="http://blog.backupify.com/2010/05/12/why-backupify-abandoned-php-for-ruby-on-rails/">Why Backupify abandoned PHP for Ruby on Rails</a>
@@ -130,7 +130,7 @@ Case Studies
 
 
 
-Training
+## Training
 
 
 <a class="c0" href="http://rubykoans.com/">Ruby Koans</a>
@@ -152,7 +152,7 @@ Training
 <a class="c0" href="http://pivotallabs.com/talks">Tech Talks</a>
 
 
-Sites Using Rails
+## Sites Using Rails
 
 <a class="c0" href="http://www.groupon.com/">Groupon</a>
 
@@ -186,7 +186,7 @@ Sites Using Rails
 
 
 
-Tools
+## Tools
 
 
 <a class="c0" href="http://www.balsamiq.com/">Balsamiq</a>
@@ -199,6 +199,13 @@ Tools
 
 <a class="c0" href="http://www.sublimetext.com/2">Sublime</a>
 
+
+
+
+
+
+
+##### Footnotes
 
 <a href="#ftnt_ref1" name="ftnt1" id="ftnt1">[1]</a>
 
