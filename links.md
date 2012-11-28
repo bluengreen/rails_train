@@ -55,15 +55,15 @@
 ## Model-View-Controller design pattern
 
 
+
 [[http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png]]<sup><a href="#ftnt1" name="ftnt_ref1" id="ftnt_ref1">[1]</a></sup>
+
+>>> Model-View-Controller request/response flow
+
+
 
 
 [[http://blog.nodejitsu.com/scaling-isomorphic-javascript-code/rails-model2-mvc.png]]<sup><a href="#ftnt2" name="ftnt_ref2" id="ftnt_ref2">[2]</a></sup>
-
-
-
--<img height="177" src="images/image00.png" width="186"><sup><a href="#ftnt1" name="ftnt_ref1" id="ftnt_ref1">[1]</a></sup><img height="238" src="images/image01.png" width="186"><sup><a href="#ftnt2" name="ftnt_ref2" id="ftnt_ref2">[2]</a></sup></li>
-
 
 
 <a class="c0" href="http://ist.berkeley.edu/as-ag/pub/pdf/mvc-seminar.pdf">http://ist.berkeley.edu/as-ag/pub/pdf/mvc-seminar.pdf</a>
