@@ -1,1 +1,1 @@
-# Rails - Activerecord 
+# Activerecord 
