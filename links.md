@@ -154,8 +154,6 @@ Training
 
 Sites Using Rails
 
-
-
 <a class="c0" href="http://www.groupon.com/">Groupon</a>
 
 <a class="c0" href="http://www.shopify.com/">Shopify</a>
@@ -183,6 +181,8 @@ Sites Using Rails
 <a class="c0" href="http://lighthouseapp.com/">Lighthouse</a>
 
 <a class="c0" href="http://soundcloud.com/">SoundCloud</a>
+
+
 
 
 
