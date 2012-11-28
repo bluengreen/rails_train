@@ -66,7 +66,7 @@
 ```
 
 
-*app* -
+**app** -
 Holds all the code that's specific to this particular application.
 
 app/assets
