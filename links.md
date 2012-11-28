@@ -74,6 +74,7 @@
 
 <a class="c0" href="http://guides.rubyonrails.org/routing.html">RESTful routes/urls</a>
 
+[[http://www.wobblini.net/images/routes.png]]
 <sup><a href="#ftnt3" name="ftnt_ref3" id="ftnt_ref3">[3]</a>
 
 
