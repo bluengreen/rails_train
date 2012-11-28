@@ -12,11 +12,6 @@
 
 
 
-
-
-
-Rails
-
 Section 1 - Overview of Framework Components
 
 1.1 Model-View-Controller (MVC)
