@@ -15,10 +15,6 @@ To get started you must have git installed, as well as ruby and the gollum gem.
 [[ActiveRecord|rails/activerecord]] 
 
 
-
-
-Rails
-
 # Section 1 - Overview of Framework Components
 
 ## 1.1 Model-View-Controller (MVC)
