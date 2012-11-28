@@ -54,13 +54,9 @@
 
 ## Model-View-Controller design pattern
 
-<img height="177" src="images/image00.png" width="186">
-<sup><a href="#ftnt1" name="ftnt_ref1" id="ftnt_ref1">[1]</a></sup>
+[[http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png]]
 
-<img height="238" src="images/image01.png" width="186"><sup><a href="#ftnt2" name="ftnt_ref2" id="ftnt_ref2">[2]</a></sup></li>
-
-
-[[http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png]]<sup><a href="#ftnt2" name="ftnt_ref2" id="ftnt_ref2">[2]</a></sup>
+<sup><a href="#ftnt2" name="ftnt_ref2" id="ftnt_ref2">[2]</a></sup>
 
 <a class="c0" href="http://ist.berkeley.edu/as-ag/pub/pdf/mvc-seminar.pdf">http://ist.berkeley.edu/as-ag/pub/pdf/mvc-seminar.pdf</a>
 
