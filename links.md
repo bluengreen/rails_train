@@ -200,9 +200,9 @@ Tools
 <a class="c0" href="http://www.sublimetext.com/2">Sublime</a>
 
 
-<a href="#ftnt_ref1" name="ftnt1" id="ftnt1">[1]</a><span class="c4">&nbsp;&lt;</span>
+<a href="#ftnt_ref1" name="ftnt1" id="ftnt1">[1]</a>
 
-<a class="c0" href="http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png">http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png</a><span class="c4">&gt;</span></p>
+<p><span class="c4">&nbsp;&lt;</span><a class="c0" href="http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png">http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png</a><span class="c4">&gt;</span></p>
 
 
 
