@@ -25,44 +25,45 @@
 - new application
 - application directory structure
 
-  |-- app
-  |   |-- assets
-  |       |-- images
-  |       |-- javascripts
-  |       `-- stylesheets
-  |   |-- controllers
-  |   |-- helpers
-  |   |-- mailers
-  |   |-- models
-  |   `-- views
-  |       `-- layouts
-  |-- config
-  |   |-- environments
-  |   |-- initializers
-  |   `-- locales
-  |-- db
-  |-- doc
-  |-- lib
-  |   `-- tasks
-  |-- log
-  |-- public
-  |-- script
-  |-- test
-  |   |-- fixtures
-  |   |-- functional
-  |   |-- integration
-  |   |-- performance
-  |   `-- unit
-  |-- tmp
-  |   |-- cache
-  |   |-- pids
-  |   |-- sessions
-  |   `-- sockets
-  `-- vendor
-      |-- assets
-          `-- stylesheets
-      `-- plugins
-
+```
+      |-- app
+      |   |-- assets
+      |       |-- images
+      |       |-- javascripts
+      |       `-- stylesheets
+      |   |-- controllers
+      |   |-- helpers
+      |   |-- mailers
+      |   |-- models
+      |   `-- views
+      |       `-- layouts
+      |-- config
+      |   |-- environments
+      |   |-- initializers
+      |   `-- locales
+      |-- db
+      |-- doc
+      |-- lib
+      |   `-- tasks
+      |-- log
+      |-- public
+      |-- script
+      |-- test
+      |   |-- fixtures
+      |   |-- functional
+      |   |-- integration
+      |   |-- performance
+      |   `-- unit
+      |-- tmp
+      |   |-- cache
+      |   |-- pids
+      |   |-- sessions
+      |   `-- sockets
+      `-- vendor
+          |-- assets
+              `-- stylesheets
+          `-- plugins
+```
 
 
 app
