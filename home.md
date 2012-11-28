@@ -13,5 +13,5 @@ To get started you must have git installed, as well as ruby and the gollum gem.
 
 
 
-[[index]]
+[[index|Section 1: Overview]]
 
