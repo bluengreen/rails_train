@@ -2,11 +2,5 @@
 
 
 
-    [[Activerecord|rails/activerecord]] 
-
-
-[[ActiveRecord|rails/activerecord]] 
-
-
-[[ActiveRecord|rails/activerecord]] 
+[[Activerecord|rails/activerecord]] 
 
