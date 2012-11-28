@@ -12,5 +12,5 @@ To get started you must have git installed, as well as ruby and the gollum gem.
     gollum 
 
 
-[[Frodo|Frodo Baggins]] 
+[[activerecord]] 
 
