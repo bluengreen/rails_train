@@ -13,14 +13,14 @@ To get started you must have git installed, as well as ruby and the gollum gem.
 
 
 
-### [[Section 1: Overview|index]]
+### [[Section 1 - Overview|index]]
 
-### [[Section 2: Models|index]]
+### [[Section 2 - Models|index]]
 
-### [[Section 3: Controllers|index]]
+### [[Section 3 - Controllers|index]]
 
-### [[Section 4: Views|index]]
+### [[Section 4 - Views|index]]
 
-### [[Section 5: Advanced|index]]
+### [[Section 5 - Advanced|index]]
 
 
