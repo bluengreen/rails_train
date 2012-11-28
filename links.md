@@ -17,7 +17,6 @@
 
 <a class="c0" href="http://nginx.org/">Nginx</a>
 
-================================================================
 
 ## Popular Gems
 
@@ -75,7 +74,7 @@
 
 <a class="c0" href="http://guides.rubyonrails.org/routing.html">RESTful routes/urls</a>
 
-<img height="100" src="images/image02.png" width="186"><sup><a href="#ftnt3" name="ftnt_ref3" id="ftnt_ref3">[3]</a>
+<sup><a href="#ftnt3" name="ftnt_ref3" id="ftnt_ref3">[3]</a>
 
 
 
