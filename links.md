@@ -58,8 +58,7 @@
 
 [[http://betterexplained.com/wp-content/uploads/rails/mvc-rails.png]]<sup><a href="#ftnt1" name="ftnt_ref1" id="ftnt_ref1">[1]</a></sup>
 
->>> Model-View-Controller request/response flow
-
+> Model-View-Controller request/response flow
 
 
 
