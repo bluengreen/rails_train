@@ -1,4 +1,4 @@
-# Section 1 - Overview of Framework Components
+# Section 1 - Overview
 
 ### 1.1 Model-View-Controller (MVC)
 ##### 1.1.1 Description 
