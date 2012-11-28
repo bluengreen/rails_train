@@ -11,3 +11,6 @@ To get started you must have git installed, as well as ruby and the gollum gem.
     cd rails_train
     gollum 
 
+
+[[Frodo|Frodo Baggins]] 
+
