@@ -14,13 +14,8 @@
 ###### 1.4.1 [[Activerecord]]
 ###### 1.4.2 [[ERB/builder]]
 ###### 1.4.3 [[Actiion Mailer]]
-
-
-
-
-#### [[Activesupport]]
-
-#### [[Activeresource]]
+###### 1.4.4 [[Activesupport]]
+###### 1.4.5 [[Activeresource]]
 
 
 #### [[Create static pages]]
