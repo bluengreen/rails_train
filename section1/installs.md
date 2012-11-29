@@ -6,11 +6,7 @@
 
 
 ======================================================= 
- ** many commands require sudo but many do not
- ** this installation documentation is meant to describe a user level install 
- ** where sudo is needed it is explicitly referenced 
- ** pay attention to not add sudo where it is NOT listed
- ** it will affect the permissions negatively  
+Many commands require sudo but many do not this installation documentation is meant to describe a user level install where sudo is needed it is explicitly referenced. Pay attention to not add sudo where it is NOT listed it will affect the permissions negatively  
 =======================================================
 
 ##### Install Xcode
