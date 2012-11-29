@@ -2,7 +2,7 @@
 
 # Rails Training Outline
 
-#### Downloads and installs
+#### [[Downloads and installs]]
 
 #### MVC basics
 
