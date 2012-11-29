@@ -9,7 +9,7 @@
 
 #### 1.3 [[Dir/file structure]]
 
-
+## Section 2 - Models
 #### [[Activerecord]]
 
 #### [[ERB/builder]]
