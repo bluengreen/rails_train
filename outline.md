@@ -2,6 +2,7 @@
 
 # Rails Training Outline
 
+## Section 1 - Overview
 #### [[Downloads and installs]]
 
 #### [[MVC basics]]
