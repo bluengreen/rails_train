@@ -1,4 +1,4 @@
-## Section 1 - Overview
+### Section 1 - Overview
 
 #### 1.1 [[Downloads and installs|section1/installs]]
 
