@@ -10,9 +10,10 @@
 #### 1.3 [[Dir/file structure]]
 
 ## Section 2 - Models
-#### [[Activerecord]]
+#### 2.1 [[Activerecord]]
 
-#### [[ERB/builder]]
+## Section 3 - Views
+#### 3.1 [[ERB/builder]]
 
 #### [[Actiion Mailer]]
 
