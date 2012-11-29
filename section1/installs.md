@@ -158,4 +158,15 @@ cd readline-6.1
 ./configure --prefix=/usr/local
 make
 make install
+
+# install rvm
+curl -kL https://get.rvm.io | sudo bash -s stable
+
+# install rubies
+rvm install 1.8.7
+rvm install 1.9.3
+
+# use 1.9.3 ruby, create a gemset, and make default
+rvm use 1.9.3@init --create --default
+
 ```
