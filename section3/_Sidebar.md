@@ -10,8 +10,8 @@
 ##### 2.4 [[Mail responders]]
 
 #### Section 3 - Framework
-##### 3.1 [[Activerecord]]
-##### 3.2 [[ERB/builder]]
-##### 3.3 [[Actiion Mailer]]
-##### 3.4 [[Activesupport]]
-##### 3.5 [[Activeresource]]
+##### 3.1 [[Activerecord|section3/activerecord]]
+##### 3.2 [[ERB/builder|section3/erb]]
+##### 3.3 [[Actiion Mailer|section3/actionmailer]]
+##### 3.4 [[Activesupport|section3/activersupport]]
+##### 3.5 [[Activeresource|section3/activeresource]]
