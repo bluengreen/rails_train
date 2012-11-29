@@ -69,20 +69,20 @@ git config --global core.editor bbedit
 # create new github account for user @ http://github.com
 
 # create keys for new computer / user
- ssh-keygen -t rsa -C "<your_email_username>@rategenius.com"
+ ssh-keygen -t rsa -C "<your_email_username>"
  pbcopy < ~/.ssh/id_rsa.pub
 
 # copy new keys to new user account @ http://github.com
 https://help.github.com/articles/generating-ssh-keys
 
+sudo vi /private/etc/hosts 
 
 # edit local hosts file 
 # **add new entries below last line 
 # **add each new entry on a new line 
-# ** 127.0.0.1 rg.local  
-# ** 127.0.0.1 fg.local
-# ** 127.0.0.1 test.local
-sudo vi /private/etc/hosts 
+127.0.0.1 myproject.local  
+
+
 
 # flush DNS cache
 sudo killall -HUP mDNSResponder 
