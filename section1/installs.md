@@ -15,8 +15,9 @@ Mac OS X 10.8 installation steps
 # ** it will affect the permissions negatively  
 #====================================================================================
 
-# install xcode - needed for compilers and command line tools 
-# **this requires an apple developer account 
+##### Install Xcode
+# Xcode is needed for compilers and command line tools 
+# *this requires a free apple developer account*
 http://adcdownload.apple.com/Developer_Tools/xcode_4.4.1/xcode_4.4.1_6938145.dmg
 
 # run the installer - the commandline tools contain the compilers 
