@@ -8,6 +8,7 @@
 
 Mac OS X 10.8 installation steps
 
+``
 #====================================================================================
 # ** many commands require sudo but many do not
 # ** this installation documentation is meant to describe a user level install 
