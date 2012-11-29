@@ -1,6 +1,6 @@
 # 3.4 - Controllers
 
-[[_TOC]]
+[[_TOC_]]
 
 ### 3.4.1. routes (mapping urls to actions)
 
