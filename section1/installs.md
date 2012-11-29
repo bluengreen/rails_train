@@ -15,17 +15,6 @@ Mac OS X 10.8 installation steps
 # ** it will affect the permissions negatively  
 #====================================================================================
 
-# prepare mac for installations and configuration
-# changes have been made to 10.8, that require 
-# modification in order tp configure the way we want
-
-# make the ~/Library directory visible so we can move bbedit customizations into it
-chflags nohidden ~/Library/
-
-# make directories for our projects
-mkdir -p ~/Sites/shared/vhosts
-mkdir ~/Sites/shared/logs
-
 # install xcode - needed for compilers and command line tools 
 # **this requires an apple developer account 
 http://adcdownload.apple.com/Developer_Tools/xcode_4.4.1/xcode_4.4.1_6938145.dmg
@@ -34,11 +23,9 @@ http://adcdownload.apple.com/Developer_Tools/xcode_4.4.1/xcode_4.4.1_6938145.dmg
 # install the command line tools from within the xcode application
 # from xode menu select preferences then select downloads tab, install commandline tools 
 
-
 # ** Apple no longer ships an x client, which is required for certain libs being compiled 
 # ** install xquartz to meet these requuirements
 http://static.macosforge.org/xquartz/downloads/SL/XQuartz-2.7.2.dmg
-
 
 # install homebrew  - http://mxcl.github.com/homebrew/
 ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
