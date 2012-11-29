@@ -119,3 +119,5 @@ export PATH=/usr/local/mysql/bin:/usr/local/share/pear/bin:$PATH
 
 EOD
 ```
+##### Install Rails
+
