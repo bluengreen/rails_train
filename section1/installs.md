@@ -24,7 +24,7 @@ Install xquartz to meet these requirements
 
 http://static.macosforge.org/xquartz/downloads/SL/XQuartz-2.7.2.dmg
 
-##### Install Quartz 
+##### Install Homebrew
 
 ```
 # install homebrew  - http://mxcl.github.com/homebrew/
