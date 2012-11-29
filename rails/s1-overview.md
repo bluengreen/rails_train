@@ -66,13 +66,16 @@
 ```
 
 
-**app** -
+**app** 
+
 Holds all the code that's specific to this particular application.
 
-app/assets
+**app/assets**
+
 Contains subdirectories for images, stylesheets, and JavaScript files.
 
-app/controllers
+**app/controllers**
+
 Holds controllers that should be named like weblogs_controller.rb for
 automated URL mapping. All controllers should descend from
 ApplicationController which itself descends from ActionController::Base.
@@ -160,5 +163,4 @@ vendor/rails/. This directory is in the load path.
 - rake routes
 - rake spec 
 - rake stats    
-
 
