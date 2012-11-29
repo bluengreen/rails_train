@@ -1,5 +1,4 @@
 # Dir/File Structure
-
 ```
       |-- app
       |   |-- assets
