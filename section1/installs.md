@@ -51,7 +51,7 @@ http://cdn.mysql.com/Downloads/MySQL-5.1/mysql-5.1.65-osx10.6-x86_64.dmg
 
 # ** install mysql pref pane, and make it start on reboot 
 
-```bash
+```BASH
 # set mysql password
 mysqladmin -u root password NEWPASSWORD
 ```
