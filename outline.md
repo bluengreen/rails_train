@@ -10,14 +10,8 @@
 
 #### 1.3 [[Dir/file structure]]
 
-#### 1.4 Rails Components 
-###### 1.4.1 [[Activerecord]]
-###### 1.4.2 [[ERB/builder]]
-###### 1.4.3 [[Actiion Mailer]]
-###### 1.4.4 [[Activesupport]]
-###### 1.4.5 [[Activeresource]]
 
-
+## Section 2 - Application
 #### [[Create static pages]]
 
 #### [[Create a dynamic page]]
@@ -25,3 +19,11 @@
 #### [[Create a CRUD scaffold resource]]
 
 #### [[Mail responders]]
+
+
+#### 1.4 Rails Components 
+###### 1.4.1 [[Activerecord]]
+###### 1.4.2 [[ERB/builder]]
+###### 1.4.3 [[Actiion Mailer]]
+###### 1.4.4 [[Activesupport]]
+###### 1.4.5 [[Activeresource]]
