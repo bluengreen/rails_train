@@ -12,15 +12,19 @@ To get started you must have git installed, as well as ruby and the gollum gem.
     gollum 
 
 
+#### Section 1 - Overview
+##### 1.1 [[Downloads and installs|section1/installs]]
+##### 1.2 [[MVC basics|section1/mvc_basics]]
+##### 1.3 [[Dir-file structure|section1/Dir-file structure]]
 
-### [[Section 1 - Overview|rails/s1-overview]]
+#### Section 2 - Application
+##### 2.1 [[Create static pages]]
+##### 2.2 [[Create a dynamic page]]
+##### 2.3 [[Scaffold resource]]
+##### 2.4 [[Mail responders]]
 
-### [[Section 2 - Models|rails/s2-models]]
-
-### [[Section 3 - Controllers|rails/s3-controllers]]
-
-### [[Section 4 - Views|rails/s4-views]]
-
-### [[Section 5 - Advanced|rails/s5-advanced]]
-
-
+#### Section 3 - Framework
+##### 3.1 [[Activerecord|section3/activerecord]]
+##### 3.2 [[ERB/builder|section3/erb]]
+##### 3.2 [[Action Controller|section3/actioncontroller]]
+##### 3.3 [[Actiion Mailer|section3/actionmailer]]
