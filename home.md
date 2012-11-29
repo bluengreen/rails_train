@@ -28,3 +28,8 @@ To get started you must have git installed, as well as ruby and the gollum gem.
 ##### 3.2 [[ERB/builder|section3/erb]]
 ##### 3.2 [[Action Controller|section3/actioncontroller]]
 ##### 3.3 [[Actiion Mailer|section3/actionmailer]]
+
+
+#### References
+
+
