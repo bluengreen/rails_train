@@ -3,11 +3,12 @@
 # Rails Training Outline
 
 ## Section 1 - Overview
-#### [[Downloads and installs]]
+#### 1.1 [[Downloads and installs]]
 
-#### [[MVC basics]]
+#### 1.2 [[MVC basics]]
 
-#### [[Dir/file structure]]
+#### 1.3 [[Dir/file structure]]
+
 
 #### [[Activerecord]]
 
