@@ -4,7 +4,7 @@
 
 ## Section 1 - Overview
 
-#### 1.1 [[Downloads and installs]]
+#### 1.1 [[Downloads and installs|section1/installs]]
 
 #### 1.2 [[MVC basics]]
 
