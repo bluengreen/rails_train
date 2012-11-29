@@ -46,37 +46,15 @@ brew install ghostscript
 brew install autoconf automake apple-gcc42
 ```
 
-# configure git
-git config --global color.ui true
-# define your editor
-git config --global core.editor bbedit
-
-# create new github account for user @ http://github.com
-
-# create keys for new computer / user
- ssh-keygen -t rsa -C "<your_email_username>"
- pbcopy < ~/.ssh/id_rsa.pub
-
-# copy new keys to your user account @ http://github.com
-https://help.github.com/articles/generating-ssh-keys
-
-sudo vi /private/etc/hosts 
-
-# edit local hosts file 
-# **add new entries below last line 
-# **add each new entry on a new line 
-127.0.0.1 myproject.local  
-
-# flush DNS cache
-sudo killall -HUP mDNSResponder 
-
 # download and install mysql 
 http://cdn.mysql.com/Downloads/MySQL-5.1/mysql-5.1.65-osx10.6-x86_64.dmg
 
 # ** install mysql pref pane, and make it start on reboot 
 
+```bash
 # set mysql password
 mysqladmin -u root password NEWPASSWORD
+```
 
 # install RVM and rubies 
 curl -L https://get.rvm.io | bash -s stable --ruby
