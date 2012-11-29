@@ -2,9 +2,7 @@
 
 [[_TOC_]]
 
-
 ## Mac Installation
-
 
 Mac OS X 10.8 installation steps
 
@@ -27,7 +25,6 @@ chflags nohidden ~/Library/
 # make directories for our projects
 mkdir -p ~/Sites/shared/vhosts
 mkdir ~/Sites/shared/logs
-
 
 # install xcode - needed for compilers and command line tools 
 # **this requires an apple developer account 
@@ -63,8 +60,8 @@ brew install autoconf automake apple-gcc42
 
 # configure git
 git config --global color.ui true
+# define your editor
 git config --global core.editor bbedit
-
 
 # create new github account for user @ http://github.com
 
