@@ -6,7 +6,7 @@
 
 Mac OS X 10.8 installation steps
 
-```
+
 #====================================================================================
 # ** many commands require sudo but many do not
 # ** this installation documentation is meant to describe a user level install 
@@ -27,8 +27,10 @@ http://adcdownload.apple.com/Developer_Tools/xcode_4.4.1/xcode_4.4.1_6938145.dmg
 # ** install xquartz to meet these requuirements
 http://static.macosforge.org/xquartz/downloads/SL/XQuartz-2.7.2.dmg
 
+```
 # install homebrew  - http://mxcl.github.com/homebrew/
 ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
+```
 
 # check brew config
 brew doctor
