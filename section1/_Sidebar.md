@@ -3,7 +3,6 @@
 ##### 1.2 [[MVC basics]]
 ##### 1.3 [[Dir-file structure|section1/Dir-file structure]]
 
-
 #### Section 2 - Application
 ##### 2.1 [[Create static pages]]
 ##### 2.2 [[Create a dynamic page]]
