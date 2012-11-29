@@ -44,10 +44,14 @@ brew install ghostscript
 brew install autoconf automake apple-gcc42
 ```
 
-# download and install mysql 
+
+##### Install MySQL
+
+Download and install mysql 
+
 http://cdn.mysql.com/Downloads/MySQL-5.1/mysql-5.1.65-osx10.6-x86_64.dmg
 
-# ** install mysql pref pane, and make it start on reboot 
+ ** install mysql pref pane, and make it start on reboot 
 
 ```
 # set mysql password
