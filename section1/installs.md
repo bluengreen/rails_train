@@ -70,6 +70,7 @@ CC=/usr/local/bin/gcc-4.2 rvm install 1.9.3
 rvm use 1.9.3@custom --create --default
 ```
 
+```
 # create and edit .bash_profile for our environment
 
 cat > ~/.bash_profile <<-EOD
