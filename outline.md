@@ -12,7 +12,7 @@
 
 #### [[ERB/builder]]
 
-#### [[Activemailer]]
+#### [[Actiion Mailer]]
 
 #### [[Activesupport]]
 
