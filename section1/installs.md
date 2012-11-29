@@ -1,8 +1,8 @@
 # Installation
 
 
-    <div id="sidebar-content" class="markdown-body">
-      <h4>Section 1 - Overview<a class="anchor" id="Section-1---Overview" href="#Section-1---Overview"></a></h4>
+<div id="sidebar-content" class="markdown-body">
+<h4>Section 1 - Overview<a class="anchor" id="Section-1---Overview" href="#Section-1---Overview"></a></h4>
 
 <h5>1.1 <a class="internal present" href="/section1/installs">Downloads and installs</a><a class="anchor" id="1.1-Downloads-and-installs" href="#1.1-Downloads-and-installs"></a></h5>
 
