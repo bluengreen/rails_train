@@ -1,5 +1,7 @@
 # Outline
 
+# Rails Training Outline
+
 #### Downloads and installs
 
 #### MVC basics
