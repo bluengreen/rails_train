@@ -8,7 +8,7 @@
 
 #### 1.2 [[MVC basics]]
 
-#### 1.3 [[section1/Dir-file structure|Dir-file structure]]
+#### 1.3 [[Dir-file structure|section1/Dir-file structure]]
 
 
 ## Section 2 - Application
