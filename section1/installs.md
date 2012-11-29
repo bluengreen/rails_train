@@ -127,4 +127,23 @@ gem install rails --no-rdoc --no-ri
 
 ## Linux Installation Steps
 
+##### Install Ruby
+
+```
+########
+# Install ruby and required tools for building the system
+########
+${YUM} install -y links zip nmap fileutils ncftp which ruby-1.8.7.352 ruby-libs-1.8.7.352 ruby-devel.x86_64 ruby-ri ruby-rdoc ruby-shadow gcc gcc-c++ automake autoconf make curl curl-devel ImageMagick ImageMagick-devel libxslt libxslt-devel dmidecode
+${YUM} install -y gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-devel libffi-devel openssl-devel make bzip2 autoconf automake libtool bison iconv-devel
+
+RUBY=`which ruby`
+########
+# Setup RubyGems
+########
+curl -o ${TMP_DIR}/rubygems-1.8.10.tgz http://production.cf.rubygems.org/rubygems/rubygems-1.8.10.tgz
+tar xzvf ${TMP_DIR}/rubygems-1.8.10.tgz -C ${TMP_DIR}
+${RUBY} ${TMP_DIR}rubygems-1.8.10/setup.rb --no-format-executable
+```
+
+##### Install RVM
 
