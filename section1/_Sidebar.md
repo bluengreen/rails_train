@@ -1,6 +1,6 @@
 #### Section 1 - Overview
 ##### 1.1 [[Downloads and installs|section1/installs]]
-##### 1.2 [[MVC basics]]
+##### 1.2 [[MVC basics|section1/mvc_basics]]
 ##### 1.3 [[Dir-file structure|section1/Dir-file structure]]
 
 #### Section 2 - Application
