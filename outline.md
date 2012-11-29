@@ -21,9 +21,8 @@
 #### 2.4 [[Mail responders]]
 
 ## Section 3 - Framework
-#### 1.4 Rails Components 
-###### 1.4.1 [[Activerecord]]
-###### 1.4.2 [[ERB/builder]]
-###### 1.4.3 [[Actiion Mailer]]
-###### 1.4.4 [[Activesupport]]
-###### 1.4.5 [[Activeresource]]
+###### 3.1 [[Activerecord]]
+###### 3.2 [[ERB/builder]]
+###### 3.3 [[Actiion Mailer]]
+###### 3.4 [[Activesupport]]
+###### 3.5 [[Activeresource]]
