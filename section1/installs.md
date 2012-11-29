@@ -69,7 +69,7 @@ CC=/usr/local/bin/gcc-4.2 rvm reinstall 1.8.7
 CC=/usr/local/bin/gcc-4.2 rvm install 1.9.3
 rvm use 1.9.3@custom --create --default
 ```
-##### Update BASH Profile
+##### Update Shell Profile
 
 ```
 # create and edit .bash_profile for our environment
