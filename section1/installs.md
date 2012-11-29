@@ -23,9 +23,9 @@ http://adcdownload.apple.com/Developer_Tools/xcode_4.4.1/xcode_4.4.1_6938145.dmg
 # install the command line tools from within the xcode application
 # from xode menu select preferences then select downloads tab, install commandline tools 
 
-** Apple no longer ships an x client, which is required for certain libs being compiled 
-
-** install xquartz to meet these requuirements
+##### Install Quartz 
+Apple no longer ships an x client, which is required for certain libs being compiled. 
+Install xquartz to meet these requuirements
 http://static.macosforge.org/xquartz/downloads/SL/XQuartz-2.7.2.dmg
 
 ```
