@@ -30,6 +30,7 @@ To get started you must have git installed, as well as ruby and the gollum gem.
 ##### 3.3 [[Actiion Mailer|section3/actionmailer]]
 
 #### Section 4 - References
+##### 4.1 [[Links|links/links]]
 ##### 4.1 [[Source|section4/source]]
 ##### 4.2 [[Case Studies|section4/casestudies]]
 ##### 4.2 [[Editors|section4/editors]]
