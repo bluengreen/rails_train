@@ -22,6 +22,6 @@
 
 #### [[Create a dynamic page]]
 
-#### Create a CRUD scaffold resource
+#### [[Create a CRUD scaffold resource]]
 
-#### Mail responders
+#### [[Mail responders]]
