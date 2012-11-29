@@ -69,7 +69,7 @@ git config --global core.editor bbedit
  ssh-keygen -t rsa -C "<your_email_username>"
  pbcopy < ~/.ssh/id_rsa.pub
 
-# copy new keys to new user account @ http://github.com
+# copy new keys to your user account @ http://github.com
 https://help.github.com/articles/generating-ssh-keys
 
 sudo vi /private/etc/hosts 
@@ -79,87 +79,16 @@ sudo vi /private/etc/hosts
 # **add each new entry on a new line 
 127.0.0.1 myproject.local  
 
-
-
 # flush DNS cache
 sudo killall -HUP mDNSResponder 
 
-# edit httpd.conf file 
-# ** update to include all vhost conf files 
-sudo vi /private/etc/apache2/httpd.conf
-
-# ** locate and uncomment the php module 
->>>>>
-LoadModule php5_module libexec/apache2/libphp5.so
-<<<<<
-
->>>>>
-<Directory "/Users/<mac_account_username>/Sites/">
-  Options Indexes MultiViews
-  AllowOverride All
-  Order allow,deny
-  Allow from all
-</Directory>
-
-Listen 0.0.0.0:80
-Listen 0.0.0.0:443
-NameVirtualHost *:80
-NameVirtualHost *:443
-
-# vhosts
-Include /Users/pnovess/Sites/shared/vhosts/*.conf
-<<<<<<
-
-# doanload and install mysql 
+# download and install mysql 
 http://cdn.mysql.com/Downloads/MySQL-5.1/mysql-5.1.65-osx10.6-x86_64.dmg
 
 # ** install mysql pref pane, and make it start on reboot 
 
 # set mysql password
 mysqladmin -u root password NEWPASSWORD
-
-
-
-
-# edit php.ini file 
-sudo vi /private/etc/php.ini
-
-# ** change the time zone 
-date.timezone = 'America/Chicago'
-
-# ** mysql socket is located in a different location than listed in php.ini
-# ** locate and change these lines to match below
-pdo_mysql.default_socket=/tmp/mysql.sock
-
-mysql.default_socket = /tmp/mysql.sock
-
-mysqli.default_socket = /tmp/mysql.sock
-
-
-# create a php info page to verify the installation of apache / php
-mkdir ~/Sites/test/
-echo '<?php phpinfo(); ?>' > ~/Sites/test/index.php
-
-# create a vhost file for test.local
-
-cat > ~/Sites/shared/vhosts/test.conf <<-EOD
-<VirtualHost *:80>
-  DocumentRoot "/Users/<username>/Sites/test/"
-  ServerName  test.local
-  ServerAdmin <username>@rategenius.com
-  Options Indexes MultiViews Includes +FollowSymlinks +SymLinksIfOwnerMatch
-  CustomLog "/Users/<username>/Sites/shared/logs/test_access.log" common
-  ErrorLog "/Users/<username>/Sites/shared/logs/test_error.log"
-</VirtualHost>
-EOD
-
-# start apache with verbose messages
-sudo bash -x /usr/sbin/apachectl -k start
-
-#  review the install with your browser 
-
-http://test.local/
-
 
 # install RVM and rubies 
 curl -L https://get.rvm.io | bash -s stable --ruby
@@ -169,7 +98,6 @@ export CPPFLAGS=-I/opt/X11/include
 CC=/usr/local/bin/gcc-4.2 rvm reinstall 1.8.7
 CC=/usr/local/bin/gcc-4.2 rvm install 1.9.3
 rvm use 1.9.3@custom --create --default
-
 
 # create and edit .bash_profile for our environment
 
