@@ -4,9 +4,7 @@
 
 ## Mac OS X 10.8 installation steps
 
-
 *Many commands require sudo but many do not this installation documentation is meant to describe a user level install where sudo is needed it is explicitly referenced. Pay attention to not add sudo where it is NOT listed it will affect the permissions negatively*
-
 
 ##### Install Xcode
 Xcode is needed for compilers and command line tools 
@@ -51,7 +49,7 @@ http://cdn.mysql.com/Downloads/MySQL-5.1/mysql-5.1.65-osx10.6-x86_64.dmg
 
 # ** install mysql pref pane, and make it start on reboot 
 
-```BASH
+```
 # set mysql password
 mysqladmin -u root password NEWPASSWORD
 ```
