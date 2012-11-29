@@ -125,6 +125,6 @@ EOD
 gem install rails --no-rdoc --no-ri
 ```
 
- ## Linux Installation Steps
+## Linux Installation Steps
 
 
