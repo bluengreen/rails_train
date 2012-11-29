@@ -1,5 +1,8 @@
 # 3.2 - ERB/Builder 
 
+[[_TOC_]]
+
+
 ### 3.2.1 template engines
 - ERB
 - BUILDER
