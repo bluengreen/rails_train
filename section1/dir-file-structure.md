@@ -1,4 +1,4 @@
-- application directory structure
+# Application Directory Structure
 
 ```
       |-- app
