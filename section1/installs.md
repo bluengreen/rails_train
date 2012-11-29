@@ -2,9 +2,7 @@
 
 [[_TOC_]]
 
-## Mac Installation
-
-Mac OS X 10.8 installation steps
+## Mac OS X 10.8 installation steps
 
 
 ======================================================= 
