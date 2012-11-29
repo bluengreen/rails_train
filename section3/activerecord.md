@@ -1,5 +1,7 @@
 # 3.1 - Activerecord
 
+[[_TOC_]]
+
 ##### 3.1.1 conventions
 - table names - plurals
 - class names - singular
