@@ -168,5 +168,6 @@ rvm install 1.9.3
 
 # use 1.9.3 ruby, create a gemset, and make default
 rvm use 1.9.3@init --create --default
-
 ```
+
+##### Install Rails
