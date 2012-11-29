@@ -60,7 +60,7 @@ mysqladmin -u root password NEWPASSWORD
 
 ##### Install RVM & Updated Rubies
 
-# install RVM and rubies 
+```
 curl -L https://get.rvm.io | bash -s stable --ruby
 rvm requirements
 rvm pkg install openssl
@@ -68,6 +68,7 @@ export CPPFLAGS=-I/opt/X11/include
 CC=/usr/local/bin/gcc-4.2 rvm reinstall 1.8.7
 CC=/usr/local/bin/gcc-4.2 rvm install 1.9.3
 rvm use 1.9.3@custom --create --default
+```
 
 # create and edit .bash_profile for our environment
 
