@@ -17,13 +17,13 @@ Mac OS X 10.8 installation steps
 
 ##### Install Xcode
 Xcode is needed for compilers and command line tools 
-
 *this requires a free apple developer account*
+
 http://adcdownload.apple.com/Developer_Tools/xcode_4.4.1/xcode_4.4.1_6938145.dmg
 
-# run the installer - the commandline tools contain the compilers 
-# install the command line tools from within the xcode application
-# from xode menu select preferences then select downloads tab, install commandline tools 
+*run the installer - the commandline tools contain the compilers 
+install the command line tools from within the xcode application
+from xode menu select preferences then select downloads tab, install commandline tools*
 
 ##### Install Quartz 
 Apple no longer ships an x client, which is required for certain libs being compiled. 
