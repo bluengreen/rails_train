@@ -20,7 +20,7 @@
 
 #### [[Mail responders]]
 
-
+## Section 3 - Framework
 #### 1.4 Rails Components 
 ###### 1.4.1 [[Activerecord]]
 ###### 1.4.2 [[ERB/builder]]
