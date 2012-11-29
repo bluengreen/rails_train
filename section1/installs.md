@@ -8,7 +8,7 @@
 
 Mac OS X 10.8 installation steps
 
-``
+```
 #====================================================================================
 # ** many commands require sudo but many do not
 # ** this installation documentation is meant to describe a user level install 
@@ -246,4 +246,4 @@ mysql -u root -p rateGenius < <backup_db_name>.sql
 # clone source code from github
 cd ~/Sites
 git clone https://github.com/RateGenius/rateGenius.git
-
+```
