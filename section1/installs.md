@@ -58,6 +58,8 @@ http://cdn.mysql.com/Downloads/MySQL-5.1/mysql-5.1.65-osx10.6-x86_64.dmg
 mysqladmin -u root password NEWPASSWORD
 ```
 
+##### Install RVM & Updated Rubies
+
 # install RVM and rubies 
 curl -L https://get.rvm.io | bash -s stable --ruby
 rvm requirements
