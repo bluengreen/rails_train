@@ -1,4 +1,4 @@
-# Rails training and rails links
+# Rails Training Outline
 
 #### Downloads and installs
 
