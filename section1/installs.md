@@ -29,6 +29,7 @@ http://static.macosforge.org/xquartz/downloads/SL/XQuartz-2.7.2.dmg
 ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
 ```
 
+```
 # check brew config
 brew doctor
 
@@ -43,6 +44,7 @@ brew install imagemagick
 brew install mutt
 brew install ghostscript
 brew install autoconf automake apple-gcc42
+```
 
 # configure git
 git config --global color.ui true
