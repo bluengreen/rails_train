@@ -15,11 +15,12 @@
 ## Section 3 - Views
 #### 3.1 [[ERB/builder]]
 
-#### [[Actiion Mailer]]
+#### 3.2 [[Actiion Mailer]]
 
 #### [[Activesupport]]
 
 #### [[Activeresource]]
+
 
 #### [[Create static pages]]
 
