@@ -24,6 +24,8 @@ Install xquartz to meet these requirements
 
 http://static.macosforge.org/xquartz/downloads/SL/XQuartz-2.7.2.dmg
 
+##### Install Quartz 
+
 ```
 # install homebrew  - http://mxcl.github.com/homebrew/
 ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
