@@ -12,6 +12,5 @@
 #### Section 3 - Framework
 ##### 3.1 [[Activerecord|section3/activerecord]]
 ##### 3.2 [[ERB/builder|section3/erb]]
+##### 3.2 [[Action Controller|section3/actioncontroller]]
 ##### 3.3 [[Actiion Mailer|section3/actionmailer]]
-##### 3.4 [[Activesupport|section3/activersupport]]
-##### 3.5 [[Activeresource|section3/activeresource]]
