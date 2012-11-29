@@ -171,3 +171,7 @@ rvm use 1.9.3@init --create --default
 ```
 
 ##### Install Rails
+
+```
+gem install rails --no-rdoc --no-ri
+```
