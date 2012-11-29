@@ -221,29 +221,4 @@ export PATH=/usr/local/mysql/bin:/usr/local/share/pear/bin:$PATH
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 
 EOD
-
-
-##### rateGenius specific
-
-# install pear
-# ** choose path for pear - /usr/local/share/pear/
-wget http://pear.php.net/go-pear.phar
-sudo php -d detect_unicode=0 go-pear.phar
-sudo pear install Mail_Mime
-
-
-# ** tar compress and download a backup version of the database
-# ** and uncompress and load the database locally
-
-# create a database 
-mysql> CREATE DATABASE rateGenius;
-mysql> exit;
-
-
-# load the backup DB locally
-mysql -u root -p rateGenius < <backup_db_name>.sql
-
-# clone source code from github
-cd ~/Sites
-git clone https://github.com/RateGenius/rateGenius.git
 ```
