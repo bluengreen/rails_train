@@ -121,3 +121,7 @@ EOD
 ```
 ##### Install Rails
 
+```
+gem install rails --no-rdoc --no-ri
+``` 
+
