@@ -1,25 +1,25 @@
-Rails training and rails links
+# Rails training and rails links
 
-Downloads and installs
+## Downloads and installs
 
-MVC basics
+## MVC basics
 
-Dir/file structure
+## Dir/file structure
 
-Activerecord
+## Activerecord
 
-ERB/builder
+## ERB/builder
 
-Activemailer
+## Activemailer
 
-Activesupport
+## Activesupport
 
-Activeresource
+## Activeresource
 
-Create static pages
+## Create static pages
 
-Create a dynamic page
+## Create a dynamic page
 
-Create a CRUD scaffold resource
+## Create a CRUD scaffold resource
 
-Mail responders
+## Mail responders
