@@ -13,11 +13,10 @@
 #### 1.4 Rails Components 
 ###### 1.4.1 [[Activerecord]]
 ###### 1.4.2 [[ERB/builder]]
+###### 1.4.3 [[Actiion Mailer]]
 
-## Section 3 - Views
-#### 3.1 [[ERB/builder]]
 
-#### 3.2 [[Actiion Mailer]]
+
 
 #### [[Activesupport]]
 
