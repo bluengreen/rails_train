@@ -20,7 +20,8 @@ from xode menu select preferences then select downloads tab, install commandline
 
 ##### Install Quartz 
 Apple no longer ships an x client, which is required for certain libs being compiled. 
-Install xquartz to meet these requuirements
+Install xquartz to meet these requirements
+
 http://static.macosforge.org/xquartz/downloads/SL/XQuartz-2.7.2.dmg
 
 ```
