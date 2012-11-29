@@ -138,7 +138,7 @@ ${YUM} install -y gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-
 
 RUBY=`which ruby`
 ########
-# Setup RubyGems
+# Install RubyGems
 ########
 curl -o ${TMP_DIR}/rubygems-1.8.10.tgz http://production.cf.rubygems.org/rubygems/rubygems-1.8.10.tgz
 tar xzvf ${TMP_DIR}/rubygems-1.8.10.tgz -C ${TMP_DIR}
@@ -147,3 +147,15 @@ ${RUBY} ${TMP_DIR}rubygems-1.8.10/setup.rb --no-format-executable
 
 ##### Install RVM
 
+```
+# remove readline from OS
+yum -y erase readline readline-devel
+
+# install readline
+curl -O ftp://ftp.gnu.org/gnu/readline/readline-6.1.tar.gz
+tar xzvf readline-6.1.tar.gz
+cd readline-6.1
+./configure --prefix=/usr/local
+make
+make install
+```
