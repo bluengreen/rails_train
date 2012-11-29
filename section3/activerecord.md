@@ -1,4 +1,4 @@
-# 3.1 Activerecord
+# 3.1 - Activerecord
 
 ##### 3.1.1 conventions
 - table names - plurals
