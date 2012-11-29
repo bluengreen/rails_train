@@ -6,7 +6,7 @@
 #### Section 2 - Application
 ##### 2.1 [[Create static pages]]
 ##### 2.2 [[Create a dynamic page]]
-##### 2.3 [[Create a CRUD scaffold resource]]
+##### 2.3 [[Scaffold resource]]
 ##### 2.4 [[Mail responders]]
 
 #### Section 3 - Framework
