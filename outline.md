@@ -12,13 +12,13 @@
 
 
 ## Section 2 - Application
-#### [[Create static pages]]
+#### 2.1 [[Create static pages]]
 
-#### [[Create a dynamic page]]
+#### 2.2 [[Create a dynamic page]]
 
-#### [[Create a CRUD scaffold resource]]
+#### 2.3 [[Create a CRUD scaffold resource]]
 
-#### [[Mail responders]]
+#### 2.4 [[Mail responders]]
 
 ## Section 3 - Framework
 #### 1.4 Rails Components 
