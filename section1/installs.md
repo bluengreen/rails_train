@@ -125,7 +125,6 @@ alias apache='sudo bash -x /usr/sbin/apachectl -k ' # (start|stop|restart)
 
 export PATH=/usr/local/mysql/bin:/usr/local/share/pear/bin:$PATH
 
-
 #############################################
 # RVM - for managing versions of ruby
 #############################################
