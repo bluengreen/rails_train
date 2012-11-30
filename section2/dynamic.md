@@ -7,7 +7,7 @@ This project will demonstrate adding dynamic content using Ruby and Rails. The u
 $ rails g controller pages index
 ```
 
-[[dynamic_img01.png]]
+[[/section2/dynamic_img01.png]]
 
 
 ##### Edit routes
