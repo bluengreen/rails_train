@@ -1,42 +1,43 @@
-Form Emailer 
-  - this project will demonstrate  
-creating a new application, configuring that application, using an available gem for interacting with another websites API, rendering the results of using a web service, creating a database and active record model, offer possible alternative ways to work with RESTFUL API's using active resource.     
+# Projects
+## Form Emailer 
 
+This project will demonstrates creating a new application, configuring the new application, creating a database and active record model, scaffolding an active record model, and creating a mailer.    
 
+This technique applies to internal web projects within  our organization. 
 
-
-
-  - create an application
-  - configure your database settings
-  - add gems
-  - bundle install 
-  - rake db:create
-  - generate a migration
-  - rake db:migrate
-
-  - rails g scaffold form  -s y
-  - rails g mailer
-  - configure controller to deliver mail
-  - configure app to send mail
-  
+ Examples:
+ - marketing 
+ - optin/optout
+ - email notifications
+ - forms
  
-
-
-
-Feed reader
-  - this technique of reading feeds via JSON or XML can also apply to internal web services for our own applications. 
-
-
-       - examples of this:
-           - communicating with EX, EQ, or TU. 
-           - mobile apps
-           - API communication internally or externally
-           - NADA book out 
  
-  - this project will demonstrate  
-creating a new application, configuring that application, using an available gem for interacting with another websites API, rendering the results of using a web service, creating a database and active record model, offer possible alternative ways to work with RESTFUL API's using active resource.     
+```
+ - create an application
+ - configure your database settings
+ - add gems
+ - bundle install 
+ - rake db:create
+ - generate a migration
+ - rake db:migrate
+ - rails g scaffold form  -s y
+ - rails g mailer
+ - configure controller to deliver mail
+ - configure app to send mail
+```  
 
+## Feed reader
+This project will demonstrate  creating a new application, configuring that application, using an available gem for interacting with another websites API, rendering the results of using a web service, creating a database and active record model, offer possible alternative ways to work with RESTFUL API's using active resource.
 
+This technique of reading feeds via JSON or XML can also apply to internal web services for our own applications. 
+
+ Examples:
+ - communicating with EX, EQ, or TU. 
+ - mobile apps
+ - API communication internally or externally
+ - NADA book out 
+ 
+```
   - create an application
   - configure your database settings
   - add gems
@@ -51,32 +52,31 @@ creating a new application, configuring that application, using an available gem
   - rails g mailer
   - configure controller to deliver mail
   - configure app to send mail
+```
 
 
+## RESTFUL API
+This project will use the 2 applications above to create an API interface to use the data we collected above. 
 
+This project will demonstrate creating a new application, configuring that application, querying the database using active record.
 
+Examples:
+           
+  - mobile apps
+  - API communication internally or externally
+  - cross system communication between 
+    - RateGenius 
+    - FInanceGenius
+    - FG & RG customers
+    - Partner interaction with our system
+      (marketing, sales, etc) 
+    - allow customers to submit applications
+    - allow customers to query the system
+    - allow applicants to submit applications      
+    - allow applicants to review app status 
+    - allow applicants to get documents 
 
-RESTFUL API
-  - this project will use the 2 applications above to create an API interface to the data we collected above. 
-
-
-  - examples of how this can be used within our organization:
-           - mobile apps
-
-           - API communication internally or externally
-           - cross system communication between 
-                    - RateGenius 
-                    - FInanceGenius
-                    - FG & RG customers
-                    - Partners (marketing, sales, etc) 
-           - allow customers to submit applications, and query the system
-           - allow applicants to submit applications and review their application status, get documents 
-
-
-   - this project will demonstrate  
-creating a new application, configuring that application, querying the database using active record, .     
-
-
+```
   - create an application
   - configure your database settings
   - add gems
@@ -91,5 +91,5 @@ creating a new application, configuring that application, querying the database 
   - rails g mailer
   - configure controller to deliver mail
   - configure app to send mail
-
+```
 
