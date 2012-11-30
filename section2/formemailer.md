@@ -12,15 +12,49 @@ Examples:
 
 
 ```
- - create an application
- - configure your database settings
- - add gems
- - bundle install 
- - rake db:create
- - generate a migration
- - rake db:migrate
- - rails g scaffold form  -s y
- - rails g mailer
- - configure controller to deliver mail
- - configure app to send mail
+# create an application
+$ rails new tutorial
+$ cd tutorial
+
+# configure your database settings
+# open config/database.yml 
+# update the settings to connect
+# to your database
+
+# open the Gemfile 
+# add the mysql gem
+# save
+
+# run bundle install
+# to install the gems
+
+$ bundle install 
+
+# create the database
+$ rake db:create
+
+# create a migration defining our table
+
+$ rails g migration customer email:string name:string
+
+# run the migration to create the table
+
+$ rake db:migrate
+
+# generate a scaffold of the model
+$ rails g scaffold customers email name -s y
+$ rails g mailer
+
+# configure app to send mail
+# edit config/environment
+
+# generate mailer
+
+$ rails g mailer 
+
+# edit customers controller to deliver mail
+# Notification.newoptin.deliver
+
+
+
 ```
