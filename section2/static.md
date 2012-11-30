@@ -26,7 +26,7 @@ $ rails s
 
 [[/section2/static_img03.png]]
 
-Open your web browser. Go to http://localhost:3000
+Open your web browser. Go to [[http://localhost:3000]]
 
 [[/section2/static_img04.png]]
 
@@ -52,8 +52,6 @@ Hello World!
 
 ```
 
-Open a web browser window. Go to 
-
-[[http://localhost:3000/helloworld.html]]
+Open a web browser window. Go to [[http://localhost:3000/helloworld.html]]
 
 
