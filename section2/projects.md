@@ -2,7 +2,8 @@
 
 [[_TOC_]]
 
-## Form Emailer 
+## [[Form Emailer|section2/formemailer]]
+
 
 This project will demonstrates creating a new application, configuring the new application, creating a database and active record model, scaffolding an active record model, and creating a mailer.    
 
