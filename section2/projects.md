@@ -2,6 +2,9 @@
 
 [[_TOC_]]
 
+## [[Static Website|section2/static]]
+
+This project will demonstrate creating a new Rails project. This tutorial will give an overview of the Rails directory structure.  It will also give insight on how to serve static web pages and associated assets within a Rails project. 
 
 
 ## [[Form Emailer|section2/formemailer]]
