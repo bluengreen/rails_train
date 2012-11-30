@@ -18,3 +18,8 @@ $ cd tutorial
 
 [[/section2/static_img02.png]]
 
+
+```
+# start the server
+$ rails s
+```
