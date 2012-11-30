@@ -1,4 +1,4 @@
-## RESTFUL API
+# RESTFUL API
 This project will use the 2 applications above to create an API interface to use the data we collected above. 
 
 This project will demonstrate creating a new application, configuring that application, querying the database using active record.
