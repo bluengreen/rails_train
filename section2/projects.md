@@ -24,7 +24,6 @@ Examples:
  - rails g mailer
  - configure controller to deliver mail
  - configure app to send mail
- 
 ```
 
 
