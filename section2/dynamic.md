@@ -8,6 +8,20 @@ This project will demonstrate adding dynamic content using Ruby and Rails. The u
 $ rails g controller pages show
 ```
 
+##### Edit routes
+
+config/routes.rb
+
+```
+Tutorial::Application.routes.draw do
+
+  root :to => "pages#index"
+
+end
+```
+
+
+
 ##### Edit controller 
 
 pages_controller.rb
