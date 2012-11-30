@@ -9,7 +9,7 @@
 This project will demonstrates creating a new application, configuring the new application, creating a database and active record model, scaffolding an active record model, and creating a mailer.    
 
 
-## [[Feed reader|section2/feedreader]]
+## [[Feed Reader|section2/feedreader]]
 This project will demonstrate  creating a new application, configuring that application, using an available gem for interacting with another websites API, rendering the results of using a web service, creating a database and active record model, offer possible alternative ways to work with RESTFUL API's using active resource.
 
 
