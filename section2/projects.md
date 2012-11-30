@@ -22,4 +22,4 @@ This project will demonstrate  creating a new application, configuring that appl
 
 
 ## [[RESTFUL API|section2/restapi]]
-This project will use the 2 applications above to create an API interface to use the data we collected above. 
+This project will contniue on with the application above to create an API interface to the data we collected above. 
