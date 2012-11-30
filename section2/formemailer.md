@@ -1,14 +1,13 @@
 # Form Emailer
 
-This project will demonstrates creating a new application, configuring the new application, creating a database and active record model, scaffolding an active record model, and creating a mailer.    
+This project will show you how to create a new application, configuring the new application for sending email, creating a database and activerecord model, scaffolding an activerecord model, and creating a mailer.    
 
 This application demonstrates techniques that can be applied to web projects within any organization. 
 
 Examples:
-- marketing 
-- optin/optout
+- forms for users to input information
+- marketing page (sign up, optin/optout, support)
 - email notifications
-- forms
 
 
 ```
