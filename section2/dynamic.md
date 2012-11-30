@@ -5,7 +5,7 @@ This project will demonstrate adding dynamic content using Ruby and Rails. The u
 
 ##### Generate a controller. 
 ```
-$ rails g controller pages show
+$ rails g controller pages index
 ```
 
 ##### Edit routes
@@ -29,7 +29,7 @@ pages_controller.rb
 ```ruby
 class Pages < ApplicationController
   
-  def show
+  def index
     @content = "Hello World"
     @time = Time.now
   end
