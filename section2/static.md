@@ -23,3 +23,5 @@ $ cd tutorial
 # start the server
 $ rails s
 ```
+
+[[/section2/static_img03.png]]
