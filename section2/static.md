@@ -31,3 +31,27 @@ Open your web browser. Go to http://localhost:3000
 [[/section2/static_img04.png]]
 
 
+Open your preferred editor and create an HTML page. Save it and name it helloworld.html. Place the page in the public directory.
+
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Tutorial Static Page</title>
+</head>
+<body>
+
+<!-- place static pages within RAILS_ROOT/public -->
+
+Hello World!
+
+</body>
+</html>
+
+```
+
+Open a web browser window. Go to http://localhost:3000/helloworld.html
+
+
