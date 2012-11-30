@@ -2,7 +2,7 @@
 
 This project will demonstrates creating a new application, configuring the new application, creating a database and active record model, scaffolding an active record model, and creating a mailer.    
 
-This example application can be applied web projects within our organization. 
+This application demonstrates techniques that can be applied to web projects within any organization. 
 
 Examples:
 - marketing 
