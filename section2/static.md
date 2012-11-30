@@ -11,7 +11,7 @@ $ cd tutorial
 
 ```
 
-[[section2/static_img01.png]]
+[[/section2/static_img01.png]]
 
 
 [[section2/static_img02.png]]
