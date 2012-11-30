@@ -8,7 +8,9 @@
 ##### 1.3 [[Dir-file structure|section1/Dir-file structure]]
 
 #### Section 2 - Application
-##### 2.1 [[Create static pages]]
+##### 2.1 [[Projects|section2/projects]]
+
+##### 2.1 [[Create static pages|section2/projects]]
 ##### 2.2 [[Create a dynamic page]]
 ##### 2.3 [[Scaffold resource]]
 ##### 2.4 [[Mail responders]]
