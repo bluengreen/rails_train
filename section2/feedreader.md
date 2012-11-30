@@ -1,5 +1,4 @@
-
-## Feed Reader
+# Feed Reader
 This project will demonstrate creating a new application, configuring that application, using an available gem for interacting with another websites API, rendering the results of using a web service, creating a database and active record model, offer possible alternative ways to work with RESTFUL API's using active resource.
 
 This technique of reading feeds via JSON, XML, RSS can also apply to internal web services for our own applications. 
