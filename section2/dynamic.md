@@ -17,6 +17,9 @@ def show
   end
 end
 
-
 ```
+
+#### References
+
+http://railscasts.com/episodes/117-semi-static-pages
 
