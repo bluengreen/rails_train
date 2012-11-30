@@ -1,3 +1,6 @@
+## [[Form Emailer|section2/formemailer]]
+
+This project will demonstrates creating a new application, configuring the new application, creating a database and active record model, scaffolding an active record model, and creating a mailer.    
 
 This technique applies to internal web projects within  our organization. 
 
@@ -7,9 +10,6 @@ Examples:
 - email notifications
 - forms
 
- ## [[Form Emailer|section2/formemailer]]
-
-This project will demonstrates creating a new application, configuring the new application, creating a database and active record model, scaffolding an active record model, and creating a mailer.    
 
 ```
  - create an application
