@@ -7,9 +7,14 @@
 This project will demonstrate creating a new Rails project. This tutorial will give an overview of the Rails directory structure.  It will also give insight on how to serve static web pages and associated assets within a Rails project. 
 
 
+## [[Dynamic Page|section2/dynamic]]
+
+This project will demonstrate adding dynamic content using Ruby and Rails. This project also illustrates rendering using html view templates using ERB.   
+
+
 ## [[Form Emailer|section2/formemailer]]
 
-This project will demonstrates creating a new application, configuring the new application, creating a database and active record model, scaffolding an active record model, and creating a mailer.    
+This project demonstrates configuring the application we started, creating a database and active record model, scaffolding an active record model for basic CRUD methods, and creating a mailer.    
 
 
 ## [[Feed Reader|section2/feedreader]]
