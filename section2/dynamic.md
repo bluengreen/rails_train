@@ -4,7 +4,8 @@ This project will demonstrate adding dynamic content using Ruby and Rails. The u
 
 
 
-```RUBY
+```ruby
+
 pages_controller.rb
 def show
   if params[:permalink]
