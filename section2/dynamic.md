@@ -2,11 +2,13 @@
 
 This project will demonstrate adding dynamic content using Ruby and Rails. The user will create a controller and an action in the controller.  This project also illustrates rendering content using HTML view templates using ERB, by creating a layout for the application, a view for a controller action, and a partial.
 
-
 ##### Generate a controller. 
 ```
 $ rails g controller pages index
 ```
+
+[[dynamic_img01.png]]
+
 
 ##### Edit routes
 
@@ -19,8 +21,6 @@ Tutorial::Application.routes.draw do
 
 end
 ```
-
-
 
 ##### Edit controller 
 
@@ -37,7 +37,7 @@ class Pages < ApplicationController
 end
 ```
 
-##### Rederences
+##### References
 
 http://railscasts.com/episodes/117-semi-static-pages
 
