@@ -16,9 +16,8 @@ config/routes.rb
 
 ```ruby
 Tutorial::Application.routes.draw do
-
-  root :to => "pages#index"
-
+  get "pages/index"
+  root :to => 'pages#index'
 end
 ```
 
