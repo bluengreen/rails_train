@@ -1,6 +1,6 @@
 # Dir/File Structure
 
-When new project in Ruby in Rails is created, a directory structure is created as below. This page describes each of these directories and what they are used for. 
+When new Ruby in Rails project is created, a directory structure is created as below. This page describes each of these directories and what they are used for. 
 
 
 ```
