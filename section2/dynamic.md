@@ -12,7 +12,7 @@ $ rails g controller pages show
 
 config/routes.rb
 
-```
+```ruby
 Tutorial::Application.routes.draw do
 
   root :to => "pages#index"
