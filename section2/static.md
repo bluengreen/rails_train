@@ -10,3 +10,6 @@ $ rails new tutorial
 $ cd tutorial
 
 ```
+
+
+
