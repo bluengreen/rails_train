@@ -5,14 +5,16 @@ This project will demonstrate creating a new Rails project. This tutorial will g
 These techniques are used daily in creating marketing or other static content.
 
 ```
-# create an application
+# create a new rails project
 $ rails new tutorial
-$ cd tutorial
-
 ```
 
 [[/section2/static_img01.png]]
 
+
+```
+$ cd tutorial
+```
 
 [[/section2/static_img02.png]]
 
