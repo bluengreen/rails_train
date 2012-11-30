@@ -5,12 +5,12 @@ This project will demonstrates creating a new application, configuring the new a
 
 This technique applies to internal web projects within  our organization. 
 
- Examples:
- - marketing 
- - optin/optout
- - email notifications
- - forms
- 
+Examples:
+- marketing 
+- optin/optout
+- email notifications
+- forms
+
  
 ```
  - create an application
@@ -31,11 +31,11 @@ This project will demonstrate  creating a new application, configuring that appl
 
 This technique of reading feeds via JSON or XML can also apply to internal web services for our own applications. 
 
- Examples:
- - communicating with EX, EQ, or TU. 
- - mobile apps
- - API communication internally or externally
- - NADA book out 
+Examples:
+- communicating with EX, EQ, or TU. 
+- mobile apps
+- API communication internally or externally
+- NADA book out 
  
 ```
   - create an application
@@ -61,20 +61,20 @@ This project will use the 2 applications above to create an API interface to use
 This project will demonstrate creating a new application, configuring that application, querying the database using active record.
 
 Examples:
-           
-  - mobile apps
-  - API communication internally or externally
-  - cross system communication between 
-    - RateGenius 
-    - FInanceGenius
-    - FG & RG customers
-    - Partner interaction with our system
-      (marketing, sales, etc) 
-    - allow customers to submit applications
-    - allow customers to query the system
-    - allow applicants to submit applications      
-    - allow applicants to review app status 
-    - allow applicants to get documents 
+        
+- mobile apps
+- API communication internally or externally
+- cross system communication between 
+ - RateGenius 
+ - FInanceGenius
+ - FG & RG customers
+ - Partner interaction with our system
+   (marketing, sales, etc) 
+ - allow customers to submit applications
+ - allow customers to query the system
+ - allow applicants to submit applications      
+ - allow applicants to review app status 
+ - allow applicants to get documents 
 
 ```
   - create an application
