@@ -54,6 +54,6 @@ Hello World!
 
 Open a web browser window. Go to 
 
-http://localhost:3000/helloworld.html
+[[http://localhost:3000/helloworld.html]]
 
 
